@@ -24,3 +24,6 @@ cards-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Package lock file.
+/mix.lock
